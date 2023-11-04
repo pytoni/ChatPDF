@@ -19,8 +19,6 @@ c. Use External Sources: ChatPDF can access external sources or databases to com
 
 User-Friendly Interface: The app features an intuitive and user-friendly interface, making navigation and interaction with documents simple and efficient.
 
-Secure Cloud Storage: Documents uploaded to ChatPDF are stored securely, ensuring data privacy and access control.
-
 Cross-Platform Compatibility: ChatPDF is available across multiple platforms, enabling users to access their documents and interact with the AI on various devices.
 
 # Benefits:
