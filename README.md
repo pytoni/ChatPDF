@@ -1,7 +1,7 @@
 # ChatPDF
 ChatPDF is an innovative and user-friendly application designed to streamline the interaction with PDF documents through conversational AI. This app offers a range of functions that facilitate seamless document management and information retrieval.
 
-Key Features:
+# Key Features:
 
 Upload PDF Document: Users can easily upload PDF documents directly to the app's interface. Once uploaded, the document is accessible for various interactions.
 
@@ -9,7 +9,7 @@ Document Understanding: ChatPDF utilizes advanced natural language processing to
 
 Question and Answer Capability: Users can ask any question related to the content of the PDF, and the AI will provide accurate, concise answers. This functionality significantly enhances document comprehension and accessibility.
 
-Advanced Options:
+# Advanced Options:
 
 a. Retrieve New Page: Users have the ability to request the retrieval of a new page from the document, facilitating a smooth and sequential reading experience.
 
@@ -23,7 +23,7 @@ Secure Cloud Storage: Documents uploaded to ChatPDF are stored securely, ensurin
 
 Cross-Platform Compatibility: ChatPDF is available across multiple platforms, enabling users to access their documents and interact with the AI on various devices.
 
-Benefits:
+# Benefits:
 
 Efficient Document Management: Easily manage, retrieve, and interact with PDF documents in a conversational manner.
 Enhanced Accessibility: The AI-driven conversational interface makes complex information within PDFs more accessible to users.
